@@ -1,0 +1,3 @@
+[submodule "Suckless"]
+	path = Suckless
+	url = https://github.com/LCRERGO/Suckless
